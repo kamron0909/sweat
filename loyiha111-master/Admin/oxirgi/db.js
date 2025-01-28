@@ -1,0 +1,118 @@
+let products = [
+    {
+        id: 1,
+        nomi: "Iphone 16pro",
+        narxi: 2000,
+        brend:"apple",
+        rasmi: ["https://avatars.mds.yandex.net/i?id=43b82b01edd5876dcd54148e04ee24f12c09e8b8-4145687-images-thumbs&n=13"],
+    },
+    {
+        id: 3,
+        nomi: "mi 14 ultra",
+        narxi: 3000,
+        brend:"xiaomi",
+        rasmi: ["https://avatars.mds.yandex.net/i?id=45a3823fd30aef19b44f9e97ed9257e0_l-2466270-images-thumbs&n=13"],
+    },
+    {
+        id: 4,
+        nomi: "IPad Air 5",
+        narxi: 350,
+        brend:"apple",
+        rasmi:["https://avatars.mds.yandex.net/i?id=da3a080753542b6efa439253d7ea47c6_l-8869905-images-thumbs&n=13"],
+    },
+    {
+        id: 5,
+        nomi: "poco x6 pro",
+        narxi: 500,
+        brend:"poco",
+        rasmi:["https://avatars.mds.yandex.net/i?id=765a19e97511b0684dca7a8c794a5e480d276d2a-4507907-images-thumbs&n=13"],
+    },
+    {
+        id: 6,
+        nomi: " samsung flip phone",
+        narxi: 100,
+        brend:"samsung",
+        rasmi:["https://avatars.mds.yandex.net/i?id=faf3600c95497fecd0fd3d1405a82b3f_l-5236000-images-thumbs&n=13"],
+    },
+    {
+        id: 7,
+        nomi: "samsung s25",
+        narxi: 125,
+        brend:"samsung",
+        rasmi:["https://avatars.mds.yandex.net/i?id=73aa7a81e27aa30d1f8bad9f40516aed_l-10340155-images-thumbs&n=13"],
+    },
+    {
+        id: 8,
+        nomi: "samsung j4",
+        narxi: 370,
+        brend:"samsung",
+        rasmi:["https://avatars.mds.yandex.net/i?id=9c4965f26fe0d76c9102ec8634102839_l-13223669-images-thumbs&n=13"],
+    },
+    {
+        id: 9,
+        nomi: " samsung Galaxy Z Fold6",
+        narxi: 300,
+        brend:"samsung",
+        rasmi:["https://images.samsung.com/is/image/samsung/assets/ru/2407/pcd/smp/PCD_Q6_Whats-new_684x684_pc.jpg?$684_684_JPG$"],
+    },
+    {
+        id:10,
+        nomi: "Xiaomi 14T Pro 12",
+        narxi:750,
+        brend:"xiaomi",
+        rasmi:["https://mi-shop.com/upload/iblock/cf9/zrvsh0rtl0rwjb9qufsj3izk8nynj909.webp"],
+    },
+    {
+        id:11,
+        nomi: "Redmi Pad SE 8.7 4G ",
+        narxi:100,
+        brend:"xiaomi",
+        rasmi:["https://mi-shop.com/upload/iblock/901/55ly66llz5kosdnptez5kulwiv03d3bh.w500.webp"],
+    },
+    {
+        id:12,
+        nomi: "Redmi Pad Pro 6/128 Гб ",
+        narxi:212,
+        brend:"xiaomi",
+        rasmi:["https://mi-shop.com/upload/iblock/6e0/lw9l1atweyuhs1oljsbqam3x02oinlyg.w500.webp"],
+    },
+    {
+        id:13,
+        nomi: "Xiaomi Redmi Note 11S",
+        narxi:230,
+        brend:"xiaomi",
+        rasmi:["https://mi-shop.com/upload/iblock/cce/ccea23242457608a126bcf5fbe951e48.w500.webp"],
+    },
+    {
+        id:14,
+        nomi: "IPad Pro",
+        narxi:5000,
+        brend:"apple",
+        rasmi:["https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/ipad-card-40-pro-202405?wid=680&hei=528&fmt=p-jpg&qlt=95&.v=1713920820026"],
+    },
+   {
+        id:19,
+        nomi: "POCO M5",
+        narxi:90,
+        brend:"poco",
+        rasmi:["https://cdn.ksyru0-fusion.fds.api.mi-img.com/b2c-mishop-pms-ru/pms_1663916824.10434383.png?thumb=1&w=500&f=webp&q=85"],
+    },
+    {
+        id:20,
+        nomi: "POCO X5 Pro 5G",
+        narxi:340,
+        brend:"poco",
+        rasmi:["https://i02.appmifile.com/mi-com-product/fly-birds/pc/poco-m5/fdad257970d323b15a6af086a317fd34.png?f=webp"],
+    },
+    {
+        id:21,
+        nomi: " Nokia 5710 Black ",
+        narxi:2300,
+        brend:"nokia",
+        rasmi:["https://cdn.mediapark.uz/imgs/56b407a2-a66f-44b0-9e82-b7d32afa68e3.webp"],
+    },
+   
+ 
+]
+
+
